@@ -1,6 +1,7 @@
 # About-Project
 
-Project Title: Age Calculation Calculator
+Project Title: Age Calculation Calculator.
+
 This project is designed to calculate a person's age in years, months, and days.
 It takes a birthdate as input and calculates the exact age.
 The calculator provides an option to increase the age by a specified number of years, months, or days.
